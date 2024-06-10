@@ -1,0 +1,10 @@
+# Ignore .git directory
+.git
+
+# Ignore files and directories that match the following patterns
+venv/
+sample/
+out.txt
+*.png
+# Exclude __pycache__ directory
+__pycache__/
